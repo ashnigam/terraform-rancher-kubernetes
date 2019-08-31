@@ -7,6 +7,6 @@
 #### Install RKE in local host
 #### Generate config.yml file for cluster creation using rke config command
 #### Ensure ubuntu user is part of docker group in agent node
-'''
+```
 usermod -aG docker ubuntu
-'''
+```
